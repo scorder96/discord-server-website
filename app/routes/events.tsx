@@ -37,8 +37,7 @@ const events: DiscordEvent[] = [
     description: "Ask Me Anything session with the server moderators.",
     scheduled_start_time: "2025-04-22T20:00:00Z",
     scheduled_end_time: "2025-04-22T21:30:00Z",
-    image:
-      "https://community.aws/_next/image?url=https%3A%2F%2Fassets.community.aws%2Fa%2F2lKZl5YF3yZkXR0rQagF0idcPEn%2FAdobe.webp%3FimgSize%3D945x630&w=1920&q=75",
+    image: "https://images.pexels.com/photos/164829/pexels-photo-164829.jpeg",
   },
 ];
 
